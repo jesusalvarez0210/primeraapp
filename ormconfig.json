@@ -1,10 +1,10 @@
 {
     "type":"postgres",
-    "host": "ec2-52-71-161-140.compute-1.amazonaws.com",
+    "host": "ec2-18-214-208-89.compute-1.amazonaws.com",
     "port": "5432",
-    "username": "etdbvhdrbzfxgo",
-    "password": "6fa13f94c11479e625e8ffe63e67e3d75be67cef712e1c86448fad56f27e15ee",
-    "database": "dcjl0ij42vnsh2",
+    "username": "aqgpfznsbuaanc",
+    "password": "73517abacb0f96b568145ba58e0ed9419dcd5e99106880de1c998c31f77900df",
+    "database": "d5e6pgnf6c16gf",
     "extra":{
         "ssl":{
             "rejectUnauthorized":false
