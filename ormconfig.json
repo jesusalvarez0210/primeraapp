@@ -5,6 +5,11 @@
     "username": "etdbvhdrbzfxgo",
     "password": "6fa13f94c11479e625e8ffe63e67e3d75be67cef712e1c86448fad56f27e15ee",
     "database": "dcjl0ij42vnsh2",
+    "extra":{
+        "ssl":{
+            "rejectUnauthorized":false
+        }
+     },  
     "entities": [
         "dist/**/*.entity{.ts,.js}"
     ],
